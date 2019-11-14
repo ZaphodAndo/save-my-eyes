@@ -1,0 +1,10 @@
+@import "";
+
+.someClass {
+  font-family: sans;
+  font-style: italic;
+}
+
+#someID {
+	background: yellow;
+}

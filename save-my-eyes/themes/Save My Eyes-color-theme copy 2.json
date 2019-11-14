@@ -1,0 +1,113 @@
+{
+	"name": "Save My Eyes",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#2d2d2d",
+		"editor.foreground": "#ddd",
+		"editorLineNumber.foreground": "#606060",
+    "editorLineNumber.activeForeground": "#909090",
+		"editorIndentGuide.background": "#606060",
+		"editorBracketMatch.background": "#2d2d2d",
+    "editorBracketMatch.border": "#ffffff",
+		"editor.lineHighlightBackground": "#202020",
+		"focusBorder": "#fafbfc",
+
+		// Sidebar
+		"sideBar.background": "#282828",
+    "sideBar.border": "#282828",
+		"sideBar.foreground": "#ddd",
+		"sideBarTitle.foreground": "#ddd",
+		"sideBarSectionHeader.foreground": "#ddd",
+    "sideBarSectionHeader.background": "#202020",
+
+		// Statusbar
+		"statusBarItem.hoverBackground": "#111",
+		"statusBar.background": "#202020",
+    "statusBar.foreground": "#909090",
+    "statusBar.noFolderBackground": "#21252B",
+    "statusBar.debuggingForeground": "#FFFFFF",
+	},
+	"tokenColors": [
+		{
+			"scope": "emphasis",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "strong",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#6a737d"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#032f62"
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric",
+				"constant.language.null",
+				"variable.language.this",
+				"support.type.primitive",
+				"support.function",
+				"support.variable.dom",
+				"support.variable.property",
+				"support.variable.property",
+
+				// CSS
+				"meta.property-name",
+				"meta.property-value",
+
+				// Handlebars
+				"support.constant.handlebars"
+			],
+			"settings": {
+				"foreground": "#005cc5"
+			}
+		},
+		{
+			"scope": [
+				"keyword",
+				"storage.modifier",
+				"storage.type",
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#d73a49"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.type",
+				"entity.other.inherited-class",
+				"meta.function-call",
+
+				// HTML/XML
+				"entity.other.attribute-name",
+
+				// Shell
+				"entity.name.function.shell"
+			],
+			"settings": {
+				"foreground": "#6f42c1"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag"
+			],
+			"settings": {
+				"foreground": "#22863a"
+			}
+		}
+	]
+}
