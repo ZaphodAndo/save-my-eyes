@@ -1,0 +1,10 @@
+Green: #79dc91
+Red: #e3757f
+Purple: #b8a1e0
+Blue: #64adfe
+Orange: #f9af7d
+
+To-Do
+1. Add image to readme
+2. Setup vs code extension store stuff
+3. Publish???

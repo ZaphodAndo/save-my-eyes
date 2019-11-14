@@ -1,8 +1,8 @@
 {
     "name": "save-my-eyes",
     "displayName": "Save My Eyes",
-    "description": "A theme for those that wish to not be blinded",
-    "version": "0.0.1",
+    "description": "A theme for those that do not want code burned into their retinas",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "Save My Eyes",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Save My Eyes-color-theme.json"
+                "path": "./themes/save-my-eyes.json"
             }
         ]
     }
