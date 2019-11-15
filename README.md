@@ -4,6 +4,8 @@
 
 This is a dark theme thats built to not burn code into your eyes. 🔥👀
 
+![Preview](https://github.com/ZaphodAndo/save-my-eyes/images/Preview.png)
+
 ## Installation
 1. Open the extensions sidebar panel in VS Code.
 2. Search for Save My Eyes.
