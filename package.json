@@ -2,7 +2,12 @@
     "name": "save-my-eyes",
     "displayName": "Save My Eyes Theme",
     "description": "The dark theme thats built to not burn code into your eyes.",
+    "publisher": "ZaphodAndo",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZaphodAndo/save-my-eyes"
+    },
     "engines": {
         "vscode": "^1.40.0"
     },
