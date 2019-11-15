@@ -3,6 +3,7 @@
     "displayName": "Save My Eyes Theme",
     "description": "The dark theme thats built to not burn code into your eyes.",
     "publisher": "ZaphodAndo",
+    "icon": "images/logo.png",
     "version": "1.0.0",
     "repository": {
         "type": "git",
