@@ -1,7 +1,7 @@
 {
     "name": "save-my-eyes",
-    "displayName": "Save My Eyes",
-    "description": "A theme for those that do not want code burned into their retinas",
+    "displayName": "Save My Eyes Theme",
+    "description": "The dark theme thats built to not burn code into your eyes.",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
