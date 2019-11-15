@@ -1,5 +1,7 @@
 # Save My Eyes Theme for VS Code
 
+![GitHub](https://img.shields.io/github/license/ZaphodAndo/save-my-eyes)
+
 The dark theme thats built to not burn code into your eyes. 🔥👀
 
 ![Preview](https://github.com/ZaphodAndo/save-my-eyes/blob/master/images/Preview.png)
