@@ -4,7 +4,7 @@
 
 The dark theme thats built to not burn code into your eyes. 🔥👀
 
-![Preview](https://github.com/ZaphodAndo/save-my-eyes/blob/master/images/Preview.png)
+![Preview](https://raw.githubusercontent.com/ZaphodAndo/save-my-eyes/blob/master/images/Preview.png)
 
 ## Installation
 1. Open the extensions sidebar panel in VS Code.
