@@ -6,7 +6,7 @@ The dark theme thats built to not burn code into your eyes. 🔥👀
 
 Get it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ZaphodAndo.save-my-eyes)
 
-![Preview](https://github.com/ZaphodAndo/save-my-eyes/blob/master/images/Preview.png)
+![Preview](https://photos.app.goo.gl/j5wRRaVHDzm7J9kz6)
 
 ## Installation
 1. Open the extensions sidebar panel in VS Code.
