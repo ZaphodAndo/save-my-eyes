@@ -4,7 +4,7 @@
     "description": "The dark theme thats built to not burn code into your eyes.",
     "publisher": "ZaphodAndo",
     "icon": "images/logo.png",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/ZaphodAndo/save-my-eyes"

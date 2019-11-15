@@ -4,6 +4,10 @@ All notable changes to the "save-my-eyes" extension will be documented in this f
 
 ## [Unreleased]
 
+## [1.0.2] - 15/11/2019
+### Changes
+- Improved README
+
 ## [1.0.1] - 15/11/2019
 ### Added
 - New icon for theme
